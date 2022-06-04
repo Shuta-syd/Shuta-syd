@@ -5,5 +5,12 @@
  </div>
 
 ## ⚒️ Skills
-<img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/clogo.png" width=50> <img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/htmllogo.png" width=50> <img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/csslogo.png" width=50> 
+<div align="left">
+  <h3>languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,bash,html,css,scss"/>
+</div>
+<div align="left">
+  <h3>other</h3>
+  <img src="https://skillicons.dev/icons?i=git"/>
+</div>
  
