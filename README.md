@@ -11,6 +11,6 @@
 </div>
 <div align="left">
   <h3>other</h3>
-  <img src="https://skillicons.dev/icons?i=git, bash"/>
+  <img src="https://skillicons.dev/icons?i=git,bash"/>
 </div>
  
