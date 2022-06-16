@@ -7,10 +7,10 @@
 ## ⚒️ Skills
 <div align="left">
   <h3>languages</h3>
-  <img src="https://skillicons.dev/icons?i=c,html,css,scss"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,html,css"/>
 </div>
 <div align="left">
   <h3>other</h3>
-  <img src="https://skillicons.dev/icons?i=git,bash"/>
+  <img src="https://skillicons.dev/icons?i=git,bash,md"/>
 </div>
  
