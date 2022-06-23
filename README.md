@@ -4,7 +4,7 @@
     <img height="150em" src="https://badge42.vercel.app/api/v2/cl2ofdsby009209jjxabu88cu/stats?cursusId=21&coalitionId=undefined">
  </div>
 
-## ⚒️ Skills
+## ⚒️ Skills 
 <div align="left">
   <h3>languages</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,go,html,css"/>
