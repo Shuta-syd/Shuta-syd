@@ -10,7 +10,11 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,go,typescript,javascript,html,css"/>
 </div>
 <div align="left">
+  <h3>FrameWorks</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+</div>
+<div align="left">
   <h3>other</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,git,bash,md"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,bash,linux,"/>
 </div>
  
