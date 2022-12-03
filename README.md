@@ -11,7 +11,7 @@
 </div>
 <div align="left">
   <h3>FrameWorks</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react"/>
 </div>
 <div align="left">
   <h3>other</h3>
