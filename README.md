@@ -1,20 +1,3 @@
-## Hi, I'm Shuta Ogura👋
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuta-syd&layout=compact&theme=vue-dark">
-    <img height="150em" src="https://badge42.vercel.app/api/v2/cl2ofdsby009209jjxabu88cu/stats?cursusId=21&coalitionId=undefined">
- </div>
+### 👋 Hi there, I'm Shuta Ogura
 
-## ⚒️ Skills 
-<div align="left">
-  <h3>languages</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,typescript,javascript,html,css"/>
-</div>
-<div align="left">
-  <h3>FrameWorks</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,react"/>
-</div>
-<div align="left">
-  <h3>other</h3>
-  <img src="https://skillicons.dev/icons?i=docker,git,bash,linux,"/>
-</div>
- 
+- 💻  a student currently learning computer science at [42Tokyo](https://42tokyo.jp/)
